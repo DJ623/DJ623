@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/channel/UCOR1eySSkeqhbbsfqbsEgvQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Digvijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/digvijay-jondhale-0a5a21214/)](https://www.linkedin.com/in/digvijay-jondhale-0a5a21214/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Digvijay-green)](https://dj623.github.io/Profile-Website/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Digvijay-green)](https://dj623.github.io/profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Digvijay-yellow)](https://stackoverflow.com/users/19670111/digvijay-jondhale)
 
 I'm
